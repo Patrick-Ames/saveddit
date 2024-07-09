@@ -1,4 +1,4 @@
 class SubredditDownloaderConfig:
     DEFAULT_CATEGORIES = ["hot", "new", "random_rising", "rising",
-                          "controversial", "top", "gilded"]
+                          "controversial", "top"]
     DEFAULT_POST_LIMIT = None
